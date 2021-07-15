@@ -1,3 +1,4 @@
 panoramas/old/*
 panoramas/*
 .ipynb_checkpoints/*
+.DS_Store

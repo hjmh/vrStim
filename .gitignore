@@ -1,3 +1,2 @@
-
-.ipynb_checkpoints/generatePanoramas-checkpoint.ipynb
-.ipynb_checkpoints/virtualWorldDesign-checkpoint.ipynb
+.ipynb_checkpoints/*
+panoramas/*

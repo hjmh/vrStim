@@ -1,6 +1,7 @@
 panoramas/old/*
 panoramas/*
 skyGradients/*
+skyGradients/.ipynb_checkpoints/*
 plots/*
 .ipynb_checkpoints/*
 .DS_Store

@@ -1,5 +1,6 @@
 panoramas/old/*
 panoramas/*
+calibration/*
 skyGradients/*
 screenMeasurements/.ipynb_checkpoints/*
 plots/*

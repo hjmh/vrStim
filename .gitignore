@@ -1,4 +1,8 @@
 panoramas/old/*
 panoramas/*
+calibration/*
+skyGradients/*
+screenMeasurements/.ipynb_checkpoints/*
+plots/*
 .ipynb_checkpoints/*
 .DS_Store

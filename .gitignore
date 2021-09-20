@@ -1,8 +1,7 @@
 panoramas/old/*
 panoramas/*
 calibration/*
-skyGradients/Skybox_reshaped*
-skyGradients/Skybox_mean*
+skyGradients/rescaled/*
 screenMeasurements/.ipynb_checkpoints/*
 plots/*
 .ipynb_checkpoints/*
